@@ -1,0 +1,22 @@
+{
+  "name": "terraform-gcf-nodejs-example",
+  "version": "1.0.0",
+  "description": "Exemplo de implantação de uma Cloud Function HTTP em NodeJS usando terraform",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1cadumagalhaes/terraform-gcf-nodejs-example.git"
+  },
+  "keywords": [
+    "terraform",
+    "gcp",
+    "cloud-functions",
+    "nodejs"
+  ],
+  "author": "1cadumagalhaes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1cadumagalhaes/terraform-gcf-nodejs-example/issues"
+  },
+  "homepage": "https://github.com/1cadumagalhaes/terraform-gcf-nodejs-example#readme"
+}
